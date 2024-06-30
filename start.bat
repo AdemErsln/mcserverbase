@@ -1,2 +1,2 @@
-"..\Java\bin\java.exe" -jar "server.jar"
+java -jar "server.jar" nogui
 pause
